@@ -1,0 +1,8 @@
+.next
+node_modules
+package-lock.json
+src/components/icons/icon-paths.ts
+src/components/brand/logo-paths.ts
+src/components/brand/partner-logo-paths.ts
+next.config.ts
+tsconfig.json

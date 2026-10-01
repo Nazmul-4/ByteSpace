@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Satoshi (ITF Free Font License): fetched by scripts/fetch-fonts.mjs, must not be redistributed
+/src/fonts/satoshi/
